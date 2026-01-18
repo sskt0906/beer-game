@@ -3,8 +3,8 @@
 黄金比を目指してビールを注ぐ、ブラウザベースのミニゲームです。
 Next.js (App Router) + TypeScript で構築されています。
 
-![Game Screenshot](./public/screenshot1.png)
-![Game Screenshot](./public/screenshot2.png)
+![Game Screenshot](screenshot1.png)
+![Game Screenshot](screenshot2.png)
 ##  遊び方
 
 シンプルですが、奥が深い「チキンレース」ゲームです。
