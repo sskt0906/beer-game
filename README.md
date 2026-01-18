@@ -3,7 +3,8 @@
 黄金比を目指してビールを注ぐ、ブラウザベースのミニゲームです。
 Next.js (App Router) + TypeScript で構築されています。
 
-![Game Screenshot](./public/screenshot.png)
+![Game Screenshot](./public/screenshot1.png)
+![Game Screenshot](./public/screenshot2.png)
 ##  遊び方
 
 シンプルですが、奥が深い「チキンレース」ゲームです。
@@ -23,14 +24,14 @@ Next.js (App Router) + TypeScript で構築されています。
 | **B** | **〜 69%** | **不足** (Bad) - 守りに入りすぎです |
 | (ゲームオーバー) | **100%〜** | **GAMEOVER** - 溢れてしまいました |
 
-## 🛠 技術スタック
+## 技術スタック
 
 - **Framework**: [Next.js](https://nextjs.org/) (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Logic**: Custom React Hooks (`useBeerGame`) with Delta Time calculation
 
-## 🚀 ローカルでの実行方法
+## ローカルでの実行方法
 
 リポジトリをクローンした後、以下のコマンドで起動できます。
 
