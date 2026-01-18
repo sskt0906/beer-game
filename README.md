@@ -5,6 +5,7 @@ Next.js (App Router) + TypeScript で構築されています。
 
 ![Game Screenshot](screenshot1.png)
 ![Game Screenshot](screenshot2.png)
+![動作デモ](Animation.gif)
 ##  遊び方
 
 シンプルですが、奥が深い「チキンレース」ゲームです。
